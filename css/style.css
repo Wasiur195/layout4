@@ -1,0 +1,52 @@
+.header{
+	min-height:80px;
+	border:5px solid red;
+	margin-bottom:5px;
+}
+.logo{
+	border: 2px solid green;
+	width: 100px;
+	min-height: 75px;
+	float: left;
+}
+.navigation{
+	min-height:80px;
+	border:5px solid red;
+	margin-bottom:5px;
+
+}
+.banner{
+	min-height: 295px;
+	border: 5px solid blue;
+	margin-bottom: 5px;
+}
+
+.middle{
+	min-height: 600px;
+	border: 5px solid blue;
+	overflow:hidden;
+
+}
+.mid1{
+	min-height: 596px;
+	border:2px solid blue;
+	width: 875px;
+	float:right;
+	
+	
+
+}
+.mid2{
+	min-height: 596px;
+	border:2px solid red;
+	width: 400px;
+	float:left;
+}
+.footer{
+	border:5px solid red;
+	min-height:75px;
+	margin-top: 10px;
+	
+
+}
+
